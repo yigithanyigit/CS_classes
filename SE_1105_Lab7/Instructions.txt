@@ -1,0 +1,29 @@
+Implement and understand lab-07.h and lab-07.c.
+Tasks
+    - Implement the get_hit_type function
+        . It should probabilistically choose a hit type
+        . Hit types are given as an enumeration
+        . Probability of a NORMAL hit: 75%
+        . Probability of a CRITICAL hit: 20%
+        . Probability of a HEADSHOT: 5%
+        . Return the hit type
+        
+    - In attack function
+        . get a git type by calling the get_hit_type function
+        . modify the damage according to the hit type
+        . NORMAL hit does not change the damage
+        . CRITICAl hit doubles the damage
+        . HEADSHOT kills the enemy immediately
+        
+    - In game function
+        . Continue the game until a player dies
+        . Announce the winner
+        
+Bonus
+    - Implement a heal function
+        . It should take the health of a player
+        . Increment it by 10
+        . return the new health
+    - Allow player to choose between attacking or healing
+
+Do not use anything outside of the scope of this course so far.
