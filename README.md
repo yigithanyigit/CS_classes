@@ -11,3 +11,7 @@ how things work?, what are the homeworks? Are they hard? If you are wondering li
 2. COMP 1123 -> Data Structures 1 (***Stack***, ***Queue***, ***Linked List*** ,***Generic Functions***)
 3. COMP 2223 -> Data Structure 2 ()
 4. SE 2228 -> Design and analyis of Algorithm (***Big-O***, ***Dynamic Programming***)
+
+
+
+Clone recusively `git clone https://github.com/yigithanyigit/CS_classes.git`
