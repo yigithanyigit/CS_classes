@@ -1,0 +1,9 @@
+[submodule "SE2240"]
+	path = SE2240
+	url = https://github.com/yigithanyigit/SE2240.git
+[submodule "Semester 3/SE2240"]
+	path = Semester 3/SE2240
+	url = https://github.com/yigithanyigit/SE2240.git
+[submodule "Semester 3/COMP2213"]
+	path = Semester 3/COMP2213
+	url = https://github.com/yigithanyigit/COMP2213.git
