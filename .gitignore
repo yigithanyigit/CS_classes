@@ -1,7 +1,7 @@
 *.exe
 .py
 *.vscode
-.txt
+*.vs
 *.zip
 *.xlsx
 misc
